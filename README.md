@@ -1,2 +1,3 @@
 # hello-world
-Step1
+Hello all.
+I love music and I play guitar.
